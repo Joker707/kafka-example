@@ -8,8 +8,8 @@
         <version>3.0.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>kafka-example</artifactId>
+    <groupId>com.joker</groupId>
+    <artifactId>kafka</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>kafka-example</name>
     <description>kafka-example</description>
